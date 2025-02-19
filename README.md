@@ -1,2 +1,2 @@
 # Seismic-Data-Augmentation-
-Some common methods to augment the seismic synthetic data in geophysics. 
+Methods to augment the seismic synthetic data in geophysics. 
